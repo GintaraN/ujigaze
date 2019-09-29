@@ -1,0 +1,33 @@
+D:\Semester 8\A\panel1\panel1\bin\Debug\panel1.exe.config
+D:\Semester 8\A\panel1\panel1\bin\Debug\panel1.exe
+D:\Semester 8\A\panel1\panel1\bin\Debug\panel1.pdb
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.Form1.resources
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.Properties.Resources.resources
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.UCbutton1.resources
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.UCbuttontutorial.resources
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.UCHome.resources
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.csproj.GenerateResource.cache
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.csproj.CoreCompileInputs.cache
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.exe
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.pdb
+D:\Semester 8\A\panel1\panel1\bin\Debug\Tobii.EyeX.Client.dll
+D:\Semester 8\A\panel1\panel1\bin\Debug\EyeXFramework.dll
+D:\Semester 8\A\panel1\panel1\bin\Debug\Tobii.EyeX.Client.Net20.dll
+D:\Semester 8\A\panel1\panel1\obj\Debug\panel1.csproj.CopyComplete
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\bin\Debug\Tobii.EyeX.Client.dll
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\bin\Debug\panel1.exe.config
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\bin\Debug\panel1.exe
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\bin\Debug\panel1.pdb
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\bin\Debug\EyeXFramework.dll
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\bin\Debug\Tobii.EyeX.Client.Net20.dll
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.csprojAssemblyReference.cache
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.Form1.resources
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.Properties.Resources.resources
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.UCbutton1.resources
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.UCbuttontutorial.resources
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.UCHome.resources
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.csproj.GenerateResource.cache
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.csproj.CoreCompileInputs.cache
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.csproj.CopyComplete
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.exe
+D:\Semester 8\projekgazethru\Pengujian Gazethru\panel1\obj\Debug\panel1.pdb
